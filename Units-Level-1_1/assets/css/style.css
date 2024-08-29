@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .container {
+    width: 100vw;
+    background-color: aqua;
+} */
+
+img {
+    display: inline-block;
+}
+
+.img-px {
+    width: 400px;
+}
+
+.img-percent {
+    width: 50%;
+}
+
+.img-em {
+    width: 20em;
+}
+
+.img-rem {
+    width: 40rem;
+}
+
+.img-vw {
+    width: 35vw;
+}
+
+.img-vh {
+    height: 75vh;
+}

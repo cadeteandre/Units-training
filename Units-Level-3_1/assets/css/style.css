@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../images/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@font-face {
+    font-family: "New Amsterdam";
+    src: url(../fonts/NewAmsterdam-Regular.ttf);
+}
+
+main {
+    padding: 5%;
+}
+
+h1, h2, p {
+    font-family: "New Amsterdam";
+    color: rgba(255, 255, 255, 0.999);
+    letter-spacing: 0.2rem;
+}
+
+h1 {
+    font-size: 2rem;
+    text-shadow: 0.2rem;
+    padding: 0 15%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 14px;
+}
+
+article {
+    text-align: center;
+    background-color: rgba(195, 181, 181, 0.3);
+    border-radius: 5rem;
+    padding: 2%;
+    margin: 0 100px;
+}

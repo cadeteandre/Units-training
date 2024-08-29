@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    height: 100vh;
+    text-align: center;
+    background-image: url(../images/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: white;
+    font-size: 10rem;
+    padding: 10% 0 3% 0;
+}
+
+p {
+    padding: 3%;
+    font-size: 2.5rem;
+    color: rgb(255, 255, 255);
+}
+
+button {
+    border: 0.1rem solid rgb(241, 22, 231);
+    background-color: rgb(166, 118, 211);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}

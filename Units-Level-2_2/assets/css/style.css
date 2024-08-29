@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    display: block;
+    height: 100vh;
+}
+
+p {
+    font-size: 2.4rem;
+    color: white;
+    position: absolute;
+    background-color: rgba(195, 181, 181, 0.6);
+    top: 20%;
+    left: 25%;
+    padding: 1.2rem;
+    width: 50%;
+    text-align: center;
+} 

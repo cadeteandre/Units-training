@@ -1,0 +1,33 @@
+.pets {
+    border: 2px solid;
+    padding: 1.2rem;
+}
+
+li {
+    font-size: 0.8em;
+    line-height: 1.5em;
+}
+
+ul {
+    padding-inline-start: 1.2em;
+}
+
+.dog li::marker {
+    content: "\1F436";
+}
+
+.cat li::marker {
+    content: "\1F63E";
+}
+
+.parrot li::marker {
+    content: "\1F99C";
+}
+
+.snake li::marker {
+    content: "\1F40D";
+}
+
+.lizzard li::marker {
+    content: "\1F98E";
+}
